@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 963283e430829274699f1b8cb0836f50, type: 3}
   m_Name: PlayerMovementConfig_Default
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovementConfig
-  walkSpeed: 2.5
+  walkSpeed: 3.5
   sprintSpeed: 3.8
   acceleration: 12
   gravity: -20
