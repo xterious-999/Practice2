@@ -1,0 +1,60 @@
+# ==============================
+# Unity generated folders
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+
+# Unity generated / temporary data
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset Store tools
+[Aa]ssets/AssetStoreTools*
+
+
+# ==============================
+# IDE / generated project files
+# ==============================
+
+.vs/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+
+# ==============================
+# OS files
+# ==============================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+# ==============================
+# Temporary / backup files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
